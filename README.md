@@ -1,4 +1,4 @@
-# 📁 Challenge: Predicción de Churn en Telecomunicaciones
+# 📁 Challenge Telecom X: Predicción de Churn en Telecomunicaciones
 
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?style=for-the-badge&logo=pandas&logoColor=white)
